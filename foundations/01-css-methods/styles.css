@@ -1,0 +1,11 @@
+.alert-text {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: 700;
+}
+.paragraph{
+    color: white; 
+    background-color: green;
+    font-size: 18px;
+}
